@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{56C942C9-47F1-4EFD-2DD3-C46ABB34FA3C}|">
+  <MonoDevelop.Ide.ItemProperties.EditTests PreferredExecutionTarget="2f5c1d45-0de8-486a-9bb6-8c1bb4339c26" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SnakeManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="45" Column="10" />
+      <File FileName="Assets/Scripts/HighScoreManager.cs" />
+      <File FileName="Assets/Scripts/SnakeManager.cs" Line="32" Column="14" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/Snake.asmdef" />
+      <File FileName="Assets/Scripts/AppleManager.cs" Line="16" Column="68" />
+      <File FileName="Assets/Scripts/GameState.cs" />
+      <File FileName="Assets/Tests/EditTests/ScoreTest.cs" Line="30" Column="54" />
+      <File FileName="Assets/Tests/EditTests/SnakeTest.cs" Line="18" Column="76" />
+      <File FileName="Assets/Tests/EditTests/AppleTest.cs" Line="21" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SnakeUnitTesting" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SnakeManager.cs" selected="True" />
+              </Node>
+              <Node name="Tests" expanded="True">
+                <Node name="EditTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a7f35fb8-6766-410b-aa95-3e44d980d2f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
